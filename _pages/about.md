@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: "생각은 행동했을때 가치있다."
----
 profile:
   align: right
   image: unnamed.jpg
