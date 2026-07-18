@@ -6,7 +6,7 @@ subtitle: "생각을 생각으로 남기지 말자."
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: unnamed.jpg
   image_circular: false
   more_info: >
     <p>Hyundai Rotem</p>
