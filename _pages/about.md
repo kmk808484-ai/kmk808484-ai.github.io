@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "생각을 생각으로 남기지 말자."
+subtitle: "생각은 행동했을때 가치있다."
 
 profile:
   align: right
