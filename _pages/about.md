@@ -29,6 +29,7 @@ latest_posts:
 
 ---
 
+
 ### Core Competencies
 * **시스템 설계 및 해석:** Siemens Amesim, Python, LabVIEW를 활용한 고발열 시스템 냉각 로직 개발 및 시뮬레이션
 * **성능 검증:** 1D 가상 모델과 실제 실험 데이터 간의 교차 검증 및 최적화
@@ -36,6 +37,7 @@ latest_posts:
 단순히 툴을 다루는 것을 넘어, 복잡한 열유체 문제를 가상세계에 구현하여 실제 시스템에 적용 가능한 엔지니어링 솔루션을 도출하는 데 집중하고 있습니다.
 
 ---
+
 
 ### Scope of Work
 * **HVAC & Thermal Management System:** Experiment & Design
