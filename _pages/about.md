@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "생각은 행동할 때 가치있다."
+subtitle: 
 
 profile:
   align: right
@@ -22,7 +22,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-
+# 생각은 행동할 때 가치있다.
 안녕하세요.  
 열관리 및 공조(HVAC) 시스템 엔지니어 **김민규**입니다.  
 기계공학 석사 과정을 거치며 쌓은 열역학적 지식을 바탕으로 열관리 업무를 수행하고 있습니다.
