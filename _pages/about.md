@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. : Hyundai rotem
+<a href='#'>Contacts</a>. : kmk3467@naver.com
+<a href='#'>Motto</a>. : 생각을 생각으로 남기지 말자.
 
 profile:
   align: right
