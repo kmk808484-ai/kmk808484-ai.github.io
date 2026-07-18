@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-안녕하세요. <br>
+####안녕하세요. <br>
 열관리 및 공조(HVAC) 시스템 엔지니어 김민규입니다.<br>
 기계공학 석사 과정을 거치며 쌓은 열역학적 지식을 바탕으로, 열관리 업무를 수행하고 있습니다.
 ---
