@@ -22,7 +22,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
-<br>
+
 ### 생각은 행동할 때 가치있다.
 안녕하세요.  
 열관리 및 공조(HVAC) 시스템 엔지니어 **김민규**입니다.  
