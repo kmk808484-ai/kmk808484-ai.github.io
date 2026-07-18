@@ -2,19 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. : Hyundai rotem
-<a href='#'>Contacts</a>. : kmk3467@naver.com
-<a href='#'>Motto</a>. : 생각을 생각으로 남기지 말자.
+subtitle: "생각을 생각으로 남기지 말자."
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>Hyundai Rotem</p>
+    <p>kmk3467@naver.com</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
